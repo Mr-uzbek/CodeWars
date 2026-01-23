@@ -11,3 +11,4 @@ function findSmallestInt(arr) {
     //your code here
     return Math.min(...arr)
 }
+findSmallestInt([10,20,10,3,5,1])
